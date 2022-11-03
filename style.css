@@ -5,9 +5,11 @@ html, body{
 background-repeat: no-repeat;
 }
 ._card {
-    background-color: white;
+height: 100%;
+display: flex;
+background-color: white;
+justify-content: center;
     border-radius: 15px;
-    text-align: center;
     padding: 10px;
   }
 .country-dropdown{
